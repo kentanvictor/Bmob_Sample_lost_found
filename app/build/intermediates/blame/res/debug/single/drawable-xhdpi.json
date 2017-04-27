@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_add_p.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_add_p.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_photo.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\icon_photo.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_pop_bg_n.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\base_pop_bg_n.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input.9.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\input.9.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\d_operate_delete.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\d_operate_delete.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input_bg.9.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\input_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_arrow_p.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_arrow_p.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_n.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_n.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_true_p.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_true_p.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\device_pop_bg.9.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\device_pop_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_arrow_n.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_arrow_n.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_horizontal_line.9.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\base_horizontal_line.9.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_pop_bg_p.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\base_pop_bg_p.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_add_n.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_add_n.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_p.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_p.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_true_n.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\btn_true_n.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_search.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\d_operate_line.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\d_operate_line.png"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\d_operate_edit.png",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\drawable-xhdpi\\d_operate_edit.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin_right.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\anim\\zoomin_right.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout_right.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\anim\\zoomout_right.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_out.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\anim\\scale_top_out.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_in.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\anim\\scale_top_in.xml"
+    }
+]

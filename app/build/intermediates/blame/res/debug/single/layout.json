@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_lost.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\pop_lost.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_device.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\pop_device.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_add_top_bar.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\include_add_top_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_progress.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\include_progress.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_no_data.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\include_no_data.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_action_bar.xml",
+        "source": "E:\\Android_code\\Bmob_Sample_lost_found1\\app\\src\\main\\res\\layout\\include_action_bar.xml"
+    }
+]
