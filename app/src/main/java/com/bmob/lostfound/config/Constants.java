@@ -1,14 +1,16 @@
 package com.bmob.lostfound.config;
 
-/** ³£Á¿
+/** ï¿½ï¿½ï¿½ï¿½
   * @ClassName: Constants
   * @Description: TODO
   * @author smile
-  * @date 2014-5-21 ÏÂÎç3:25:51
+  * @date 2014-5-21 ï¿½ï¿½ï¿½ï¿½3:25:51
   */
+
+
 public class Constants {
 
-	public static String Bmob_APPID = "e9bbe5f23a1aa1d60d525871e1d7db99";// bmob sdkµÄAPPID
+	public static String Bmob_APPID = "e9bbe5f23a1aa1d60d525871e1d7db99";// bmob sdkï¿½ï¿½APPID
 	
-	public static final int REQUESTCODE_ADD = 1;//Ìí¼ÓÊ§Îï/ÕÐÁì
+	public static final int REQUESTCODE_ADD = 1;//ï¿½ï¿½ï¿½Ê§ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½
 }
