@@ -1,4 +1,4 @@
-#Thu Apr 27 15:41:29 CST 2017
+#Tue Jul 04 11:08:16 CST 2017
 base.0=E\:\\Android_code\\Bmob_Sample_lost_found1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_319c41efcb7c9e51f0961a564843717ad6627230
 renamed.1=classes.dex
 renamed.0=classes2.dex

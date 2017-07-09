@@ -4,29 +4,29 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="415963419828444"
+    timestamp="780882185225942"
     token="8442572515357496971"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="5979" />
+        duration="1316" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1436" />
+        duration="1483" />
     <task
         name="verifier"
-        duration="271" />
+        duration="164" />
 
     <artifact
         location="E:\Android_code\Bmob_Sample_lost_found1\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="415963419828444"
+        timestamp="780882185225942"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Android_code\Bmob_Sample_lost_found1\app\build\outputs\apk\app-debug.apk"

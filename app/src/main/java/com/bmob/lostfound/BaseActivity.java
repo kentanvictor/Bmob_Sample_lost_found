@@ -8,16 +8,17 @@ import android.text.TextUtils;
 import android.util.DisplayMetrics;
 import android.view.Window;
 import android.widget.Toast;
-import cn.bmob.v3.Bmob;
 
 import com.bmob.lostfound.config.Constants;
 
+import cn.bmob.v3.Bmob;
+
 /**
- * »ùÀà
+ * ï¿½ï¿½ï¿½ï¿½
  * @ClassName: BaseActivity
  * @Description: TODO
  * @author smile
- * @date 2014-5-20 ÉÏÎç9:55:34
+ * @date 2014-5-20 ï¿½ï¿½ï¿½ï¿½9:55:34
  */
 public abstract class BaseActivity extends Activity {
 
@@ -30,12 +31,11 @@ public abstract class BaseActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		 // ³õÊ¼»¯ Bmob SDK
-        // Ê¹ÓÃÊ±Çë½«µÚ¶ş¸ö²ÎÊıApplication IDÌæ»»³ÉÄãÔÚBmob·şÎñÆ÷¶Ë´´½¨µÄApplication ID
+		//ç¬¬ä¸€ï¼šé»˜è®¤åˆå§‹åŒ–
+		// æ³¨:è‡ªv3.5.2å¼€å§‹ï¼Œæ•°æ®sdkå†…éƒ¨ç¼åˆäº†ç»Ÿè®¡sdkï¼Œå¼€å‘è€…æ— éœ€é¢å¤–é›†æˆï¼Œä¼ æ¸ é“å‚æ•°å³å¯ï¼Œä¸ä¼ é»˜è®¤æ²¡å¼€å¯æ•°æ®ç»Ÿè®¡åŠŸèƒ½
 		Bmob.initialize(this, Constants.Bmob_APPID);
-		
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
-		//»ñÈ¡µ±Ç°ÆÁÄ»¿í¸ß
+		//ï¿½ï¿½È¡ï¿½ï¿½Ç°ï¿½ï¿½Ä»ï¿½ï¿½ï¿½
 		DisplayMetrics metric = new DisplayMetrics();
 		getWindowManager().getDefaultDisplay().getMetrics(metric);
 		mScreenWidth = metric.widthPixels;
@@ -47,21 +47,21 @@ public abstract class BaseActivity extends Activity {
 		initData();
 	}
 	/**
-	 * ÉèÖÃ²¼¾ÖÎÄ¼ş
+	 * ï¿½ï¿½ï¿½Ã²ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
 	 */
 	public abstract void setContentView();
 
 	/**
-	 * ³õÊ¼»¯²¼¾ÖÎÄ¼şÖĞµÄ¿Ø¼ş
+	 * ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ĞµÄ¿Ø¼ï¿½
 	 */
 	public abstract void initViews();
 
 	/**
-	 * ³õÊ¼»¯¿Ø¼şµÄ¼àÌı
+	 * ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½Ø¼ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½
 	 */
 	public abstract void initListeners();
 	
-	/** ½øĞĞÊı¾İ³õÊ¼»¯
+	/** ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½İ³ï¿½Ê¼ï¿½ï¿½
 	  * initData
 	  */
 	public abstract void initData();
@@ -79,7 +79,7 @@ public abstract class BaseActivity extends Activity {
 		}
 	}
 	
-	/** »ñÈ¡µ±Ç°×´Ì¬À¸µÄ¸ß¶È
+	/** ï¿½ï¿½È¡ï¿½ï¿½Ç°×´Ì¬ï¿½ï¿½ï¿½Ä¸ß¶ï¿½
 	  * getStateBar
 	  * @Title: getStateBar
 	  * @throws
