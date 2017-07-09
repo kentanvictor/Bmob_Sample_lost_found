@@ -45,7 +45,9 @@ import static com.bmob.lostfound.R.id.tv_title;
  * @author smile
  * @date 2014-5-21 ????11:12:36
  */
-public class MainActivity extends BaseActivity implements OnClickListener,
+public class
+
+MainActivity extends BaseActivity implements OnClickListener,
 		IPopupItemClick, OnItemLongClickListener {
 
 	RelativeLayout layout_action;//

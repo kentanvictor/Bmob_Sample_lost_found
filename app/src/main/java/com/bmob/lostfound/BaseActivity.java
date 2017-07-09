@@ -46,24 +46,10 @@ public abstract class BaseActivity extends Activity {
 		initListeners();
 		initData();
 	}
-	/**
-	 * ���ò����ļ�
-	 */
 	public abstract void setContentView();
 
-	/**
-	 * ��ʼ�������ļ��еĿؼ�
-	 */
 	public abstract void initViews();
-
-	/**
-	 * ��ʼ���ؼ��ļ���
-	 */
 	public abstract void initListeners();
-	
-	/** �������ݳ�ʼ��
-	  * initData
-	  */
 	public abstract void initData();
 	Toast mToast;
 
